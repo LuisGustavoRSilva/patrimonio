@@ -1,1 +1,0 @@
-ID: 1234/n-----NUM Série: 4321/n-----Nome: PC/n-----Tipo: computador desktop/n-----Descricao: computador para estudos/n-----Localização: sala 12/n-----Data Fabricação: 05/06/2020/n-----Data Aquisição: 07/08/2023/n------------------------------------------------------------
